@@ -6,7 +6,7 @@ Reads parsed JEFIT user data and charts exercises.
 
 You will need to install [Jupyter](https://jupyter.org/install).
 
-You need to parse the JEFIT file before you start. Run `parse.pl <source> data.csv`.
+You need to parse the JEFIT file before you start. Run `parse.pl <source> data/data.csv`.
 
 ## Current Snapshot
 
